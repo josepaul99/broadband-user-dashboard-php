@@ -5,3 +5,4 @@
         </div>
         <!-- Default to the left -->
       </footer>
+	  <?php echo '' ?>
